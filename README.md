@@ -108,6 +108,10 @@ The dashboard helps identify:
 
 This project demonstrates how raw transaction data can be converted into an interactive business intelligence solution that supports **financial monitoring, decision-making, and reporting**.
 
+## Live Dashboard
+
+🔗 [View Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/e2a36e87-0781-4c86-8160-a1048b25dee7)
+
 ## Author
 
 **Prachi Pimpalkar**
